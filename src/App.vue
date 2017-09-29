@@ -4,14 +4,14 @@
     <!--<TopHeader></TopHeader>-->
     <!--<hello></hello>-->
     <!--<Test></Test>-->
-    <!--<lh-video-stream class="lh-liveStream" url="rtmp://live.hkstv.hk.lxdns.com/live/hks">-->
-      <!--<div>-->
-        <!--<text>asdasdasdasd</text>-->
-      <!--</div>-->
-      <!--<div>-->
-        <!--<text>asfeghtehe</text>-->
-      <!--</div>-->
-    <!--</lh-video-stream>-->
+    <lh-video-stream class="lh-livestream" url="rtmp://live.hkstv.hk.lxdns.com/live/hks">
+      <<div>
+        <text>asdasdasdasd</text>
+      </div>
+      <div>
+        <text>asfeghtehe</text>
+      </div>
+    </lh-video-stream>
   </div>
 </template>
 
